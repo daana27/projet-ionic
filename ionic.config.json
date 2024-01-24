@@ -1,0 +1,7 @@
+{
+  "name": "helloword",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
